@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>surover_yunusdanabas</name>
+  <version>0.0.0</version>
+  <description>Some random aruco detection and slam codes</description>
+
+
+  <maintainer email="yunusemredanabas@gmail.com">suuser</maintainer>
+  <author email="yunusemredanabas@gmail.com">Yunus Emre Danabas</author>
+  <license>TODO</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>aruco_detect</build_depend>
+  <build_depend>ca_mapping</build_depend>
+  <build_depend>explore_lite</build_depend>
+  <build_depend>fiducial_msgs</build_depend>
+  <build_depend>fiducial_slam</build_depend>
+  <build_depend>gazebo_ros</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>move_base</build_depend>
+  <build_depend>multirobot_map_merge</build_depend>
+  <build_depend>nav_msgs</build_depend>
+  <build_depend>robot_state_publisher</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>srdfdom</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>teleop_twist_joy</build_depend>
+  <build_depend>teleop_twist_keyboard</build_depend>
+  <build_depend>tf</build_depend>
+  <build_depend>turtlebot3_description</build_depend>
+  <build_depend>turtlebot3_gazebo</build_depend>
+  <build_depend>turtlebot3_msgs</build_depend>
+  <build_depend>turtlebot3_navigation</build_depend>
+  <build_depend>turtlebot3_slam</build_depend>
+  <build_export_depend>aruco_detect</build_export_depend>
+  <build_export_depend>ca_mapping</build_export_depend>
+  <build_export_depend>explore_lite</build_export_depend>
+  <build_export_depend>fiducial_msgs</build_export_depend>
+  <build_export_depend>fiducial_slam</build_export_depend>
+  <build_export_depend>gazebo_ros</build_export_depend>
+  <build_export_depend>geometry_msgs</build_export_depend>
+  <build_export_depend>move_base</build_export_depend>
+  <build_export_depend>multirobot_map_merge</build_export_depend>
+  <build_export_depend>nav_msgs</build_export_depend>
+  <build_export_depend>robot_state_publisher</build_export_depend>
+  <build_export_depend>roscpp</build_export_depend>
+  <build_export_depend>sensor_msgs</build_export_depend>
+  <build_export_depend>srdfdom</build_export_depend>
+  <build_export_depend>std_msgs</build_export_depend>
+  <build_export_depend>teleop_twist_joy</build_export_depend>
+  <build_export_depend>teleop_twist_keyboard</build_export_depend>
+  <build_export_depend>tf</build_export_depend>
+  <build_export_depend>turtlebot3_description</build_export_depend>
+  <build_export_depend>turtlebot3_gazebo</build_export_depend>
+  <build_export_depend>turtlebot3_msgs</build_export_depend>
+  <build_export_depend>turtlebot3_navigation</build_export_depend>
+  <build_export_depend>turtlebot3_slam</build_export_depend>
+  <exec_depend>aruco_detect</exec_depend>
+  <exec_depend>ca_mapping</exec_depend>
+  <exec_depend>explore_lite</exec_depend>
+  <exec_depend>fiducial_msgs</exec_depend>
+  <exec_depend>fiducial_slam</exec_depend>
+  <exec_depend>gazebo_ros</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>move_base</exec_depend>
+  <exec_depend>multirobot_map_merge</exec_depend>
+  <exec_depend>nav_msgs</exec_depend>
+  <exec_depend>robot_state_publisher</exec_depend>
+  <exec_depend>roscpp</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>srdfdom</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>teleop_twist_joy</exec_depend>
+  <exec_depend>teleop_twist_keyboard</exec_depend>
+  <exec_depend>tf</exec_depend>
+  <exec_depend>turtlebot3_description</exec_depend>
+  <exec_depend>turtlebot3_gazebo</exec_depend>
+  <exec_depend>turtlebot3_msgs</exec_depend>
+  <exec_depend>turtlebot3_navigation</exec_depend>
+  <exec_depend>turtlebot3_slam</exec_depend>
+
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+
+  </export>
+</package>
